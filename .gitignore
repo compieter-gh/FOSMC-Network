@@ -1,3 +1,10 @@
+**/.console_history
+**/banned-ips.json
+**/banned-players.json
+**/ops.json
+**/usercache.json
+**/version_history.json
+**/whitelist.json
 **/cache
 **/logs
 **/world
