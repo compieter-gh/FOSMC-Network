@@ -1,3 +1,3 @@
-**FOSMC Network**
+### FOSMC Network
 
-This is the open source repository for FOSMC
+This is the Open Source repository for the FOSMC Network
