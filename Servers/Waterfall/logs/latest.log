@@ -1,48 +1,25 @@
-[21:10:27] [main/INFO]: Using standard Java JCE cipher.
-[21:10:27] [main/INFO]: Using standard Java compressor.
-[21:10:27] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.17-R0.1-SNAPSHOT:306121c:449
-[21:10:27] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
-[21:10:27] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
-[21:10:27] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
-[21:10:27] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
-[21:10:27] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
-[21:10:27] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
-[21:10:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=449, git=306121c)
-[21:10:27] [main/INFO]: Attempting to Jenkins download module cmd_alert v449
-[21:10:27] [main/INFO]: Download complete
-[21:10:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=449, git=306121c)
-[21:10:27] [main/INFO]: Attempting to Jenkins download module cmd_find v449
-[21:10:27] [main/INFO]: Download complete
-[21:10:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=449, git=306121c)
-[21:10:27] [main/INFO]: Attempting to Jenkins download module cmd_list v449
-[21:10:27] [main/INFO]: Download complete
-[21:10:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=449, git=306121c)
-[21:10:27] [main/INFO]: Attempting to Jenkins download module cmd_send v449
-[21:10:27] [main/INFO]: Download complete
-[21:10:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=449, git=306121c)
-[21:10:27] [main/INFO]: Attempting to Jenkins download module cmd_server v449
-[21:10:27] [main/INFO]: Download complete
-[21:10:27] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=449, git=306121c)
-[21:10:27] [main/INFO]: Attempting to Jenkins download module reconnect_yaml v449
-[21:10:27] [main/INFO]: Download complete
-[21:10:27] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:27] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:27] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:27] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:27] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:27] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:28] [main/WARN]: Forced host server pvp is not defined
-[21:10:28] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:28] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:28] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:28] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:28] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:28] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
-[21:10:28] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
-[21:10:34] [Shutdown Thread/INFO]: Closing listener [id: 0x3134fcac, L:/[0:0:0:0:0:0:0:0]:25577]
-[21:10:34] [Shutdown Thread/INFO]: Closing pending connections
-[21:10:34] [Shutdown Thread/INFO]: Disconnecting 0 connections
-[21:10:34] [Shutdown Thread/INFO]: Saving reconnect locations
-[21:10:34] [Shutdown Thread/INFO]: Disabling plugins
-[21:10:34] [Shutdown Thread/INFO]: Closing IO threads
-[21:10:36] [Shutdown Thread/INFO]: Thank you and goodbye
+[21:36:30] [main/INFO]: Using standard Java JCE cipher.
+[21:36:30] [main/INFO]: Using standard Java compressor.
+[21:36:30] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.17-R0.1-SNAPSHOT:306121c:449
+[21:36:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+[21:36:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+[21:36:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+[21:36:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+[21:36:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+[21:36:30] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+[21:36:30] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:306121c:449 by WaterfallMC
+[21:36:30] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25565
+[21:36:30] [Netty Worker IO Thread #0/INFO]: Started query on /[0:0:0:0:0:0:0:0]:25565
+[21:36:32] [Netty Worker IO Thread #1/INFO]: [/127.0.0.1:55796] <-> InitialHandler has pinged
+[21:54:25] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:55914] <-> InitialHandler has pinged

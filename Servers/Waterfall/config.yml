@@ -1,7 +1,21 @@
 server_connect_timeout: 5000
+listeners:
+- query_port: 25565
+  motd: FOSMC Network
+  tab_list: GLOBAL_PING
+  query_enabled: true
+  proxy_protocol: false
+  forced_hosts: {}
+  ping_passthrough: false
+  priorities:
+  - hub
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 100
+  tab_size: 60
+  force_default_server: true
 remote_ping_cache: -1
-forge_support: true
-player_limit: -1
+network_compression_threshold: 256
 permissions:
   default:
   - bungeecord.command.server
@@ -11,40 +25,25 @@ permissions:
   - bungeecord.command.end
   - bungeecord.command.ip
   - bungeecord.command.reload
+log_pings: true
+connection_throttle_limit: 3
+prevent_proxy_connections: false
 timeout: 30000
+player_limit: 100
+ip_forward: true
+groups:
+  ComPieter:
+  - admin
+remote_ping_timeout: 5000
+connection_throttle: 4000
 log_commands: false
-network_compression_threshold: 256
+stats: 2c650497-b1ee-42e1-a73b-c8ed8c2ccb56
 online_mode: true
+forge_support: true
 disabled_commands:
 - disabledcommandhere
 servers:
-  lobby:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: localhost:25565
+  hub:
+    motd: FOSMC Netwwork
+    address: localhost:25566
     restricted: false
-listeners:
-- query_port: 25577
-  motd: '&1Another Bungee server'
-  tab_list: GLOBAL_PING
-  query_enabled: false
-  proxy_protocol: false
-  forced_hosts:
-    pvp.md-5.net: pvp
-  ping_passthrough: false
-  priorities:
-  - lobby
-  bind_local_address: true
-  host: 0.0.0.0:25577
-  max_players: 1
-  tab_size: 60
-  force_default_server: false
-ip_forward: false
-remote_ping_timeout: 5000
-prevent_proxy_connections: false
-groups:
-  md_5:
-  - admin
-connection_throttle: 4000
-stats: 2c650497-b1ee-42e1-a73b-c8ed8c2ccb56
-connection_throttle_limit: 3
-log_pings: true
