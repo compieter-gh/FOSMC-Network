@@ -13,7 +13,7 @@
 config-version: 12
 settings:
   debug: false
-  bungeecord: false
+  bungeecord: true
   moved-wrongly-threshold: 0.0625
   save-user-cache-on-stop-only: false
   moved-too-quickly-multiplier: 10.0
