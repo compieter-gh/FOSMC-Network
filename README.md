@@ -1,3 +1,4 @@
-### FOSMC Network
+# FOSMC Network
+A Free Open Source Minecraft Network
 
-This is the Open Source repository for the FOSMC Network
+## Features
