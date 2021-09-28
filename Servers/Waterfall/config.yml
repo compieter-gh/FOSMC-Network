@@ -1,7 +1,6 @@
-server_connect_timeout: 5000
 listeners:
 - query_port: 25565
-  motd: FOSMC Network
+  motd: "&2&l&oFOSMC Network&r\n&oSoon"
   tab_list: GLOBAL_PING
   query_enabled: true
   proxy_protocol: false
@@ -27,8 +26,9 @@ permissions:
   - bungeecord.command.reload
 log_pings: true
 connection_throttle_limit: 3
-prevent_proxy_connections: false
+server_connect_timeout: 5000
 timeout: 30000
+stats: 2c650497-b1ee-42e1-a73b-c8ed8c2ccb56
 player_limit: 100
 ip_forward: true
 groups:
@@ -37,13 +37,13 @@ groups:
 remote_ping_timeout: 5000
 connection_throttle: 4000
 log_commands: false
-stats: 2c650497-b1ee-42e1-a73b-c8ed8c2ccb56
+prevent_proxy_connections: false
 online_mode: true
 forge_support: true
 disabled_commands:
 - disabledcommandhere
 servers:
   hub:
-    motd: FOSMC Netwwork
+    motd: "&2&l&oFOSMC Network&r\n&oSoon"
     address: localhost:25566
     restricted: false
