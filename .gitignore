@@ -13,3 +13,4 @@
 **/*.jar
 **/modules
 **/modules.yml
+**/locations.yml
