@@ -6,6 +6,7 @@ Discord: https://discord.gg/s3cp5rPPFR
 
 
 ## Features
-Soon
+- Auto downloader for server jars.
 
-### To be added
+## To be added
+- Backup/restore system.
