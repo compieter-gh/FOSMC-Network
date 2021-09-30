@@ -111,7 +111,7 @@ timings:
   - settings.velocity-support.secret
   history-interval: 300
   history-length: 3600
-  server-name: Unknown Server
+  server-name: FOSMC Server
 world-settings:
   default:
     skeleton-horse-thunder-spawn-chance: 0.01

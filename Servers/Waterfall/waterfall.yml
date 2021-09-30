@@ -1,6 +1,6 @@
 use_netty_dns_resolver: true
 disable_modern_tab_limiter: true
-log_initial_handler_connections: true
+log_initial_handler_connections: false
 throttling:
   tab_complete: 1000
 game_version: ''
