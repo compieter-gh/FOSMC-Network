@@ -1,1 +1,0 @@
-java -Xms2G -Xmx2G -jar waterfall-1.17-449.jar nogui

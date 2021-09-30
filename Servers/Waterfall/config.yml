@@ -1,6 +1,8 @@
 listeners:
 - query_port: 25565
-  motd: "&2&l&oFOSMC Network&r\n&oSoon"
+  motd: |-
+    &2&l&oFOSMC Network&r
+    &oSoon
   tab_list: GLOBAL_PING
   query_enabled: true
   proxy_protocol: false
@@ -44,6 +46,8 @@ disabled_commands:
 - disabledcommandhere
 servers:
   hub:
-    motd: "&2&l&oFOSMC Network&r\n&oSoon"
+    motd: |-
+      &2&l&oFOSMC Network&r
+      &oSoon
     address: localhost:25566
     restricted: false
