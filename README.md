@@ -7,6 +7,7 @@ Discord: https://discord.gg/s3cp5rPPFR
 
 ## Features
 - Auto downloader for server jars.
+- Backwards version support (ViaVersion/ViaBackwards/ViaRewind).
 
 ## To be added
 - Backup/restore system.
