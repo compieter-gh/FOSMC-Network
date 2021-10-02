@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633212070748
+  login: 1633212072844
+  kits:
+    color: 1633211310600
+money: '0'
+last-account-name: ComPieter
+logoutlocation:
+  world: 737107d6-2c09-48a8-ba69-b2c9db17c697
+  world-name: world
+  x: -149.6247368363423
+  y: 96.8003493084734
+  z: 295.67180687095157
+  yaw: 41.25052261352539
+  pitch: 14.549848556518555

@@ -1,0 +1,9 @@
+&fWelcome to FOSMC, &2{PLAYER}! 
+&7A Free and Open Source Minecraft Network.
+
+&7See our Github at https://www.fosmc.com/
+&7And help with the development of the server.
+&fType &2/help&f for a list of commands.
+&fType &2/list&f to see who else is online.
+&fPlayers online:&2 {ONLINE} &f- World time:&2 {WORLDTIME12}
+
