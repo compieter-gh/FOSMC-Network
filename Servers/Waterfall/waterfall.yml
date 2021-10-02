@@ -3,6 +3,6 @@ disable_modern_tab_limiter: true
 log_initial_handler_connections: false
 throttling:
   tab_complete: 1000
-game_version: ''
+game_version: '1.8 -  1.17'
 disable_tab_list_rewrite: false
 disable_entity_metadata_rewrite: false
