@@ -194,7 +194,7 @@ world-settings:
       disable-player-crits: false
       disable-end-credits: false
       disable-mob-spawner-spawn-egg-transformation: false
-      scan-for-legacy-ender-dragon: true
+      scan-for-legacy-ender-dragon: false
       disable-pillager-patrols: false
       fix-curing-zombie-villager-discount-exploit: true
       pillager-patrols:

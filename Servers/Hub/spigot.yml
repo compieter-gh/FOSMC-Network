@@ -43,11 +43,11 @@ messages:
 advancements:
   disable-saving: false
   disabled:
-  - minecraft:story/disabled
+  - '*'
 players:
   disable-saving: false
 stats:
-  disable-saving: false
+  disable-saving: true
   forced-stats: {}
 commands:
   silent-commandblock-console: false

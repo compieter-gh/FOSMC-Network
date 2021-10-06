@@ -1,0 +1,26 @@
+# --{ =-=-=-=-=-=-=-=-=-= ItemJoin's Custom Item Configurations, by RockinChaos =-=-=-=-=-=-=-=-=-= }--
+# See the tutorial page for a more in-depth explanation; https://github.com/RockinChaos/ItemJoin/wiki
+# Join the discord for easy plugin support; https://discord.gg/D5FnJ7C
+# 
+# Modifying the Version will cause this file to break and regenerate.
+items-Version: 8
+items-Delay: 2
+items-Overwrite: true
+items-Spamming: false
+items-RestrictCount: false
+items:
+  bungeecord-item:
+    id: COMPASS
+    slot: 4
+    name: 'Server Compass'
+    lore:
+    - ''
+    interact-right:
+    - 'servergui'
+    commands-sound: BLOCK_NOTE_BLOCK_PLING
+    commands-cooldown: 2
+    enchantment: UNBREAKING:1
+    itemflags: inventory-modify, hide-attributes, death-drops, self-drops
+    triggers: join, respawn, world-switch
+    permission-node: itemjoin.compass
+    enabled-worlds: ALL
